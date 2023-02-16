@@ -123,7 +123,7 @@ if (command) {
 lexx.readMessages([msg.key])
 }
 
-let fakenya = {key : {participant : '0@s.whatsapp.net', ...(msg.chat ? { remoteJid: `status@broadcast` } : {}) },message: {locationMessage: {name: `SPHIXBotzz...🌷`, jpegThumbnail: fs.readFileSync('./lib/logo.jpg')}}}
+let fakenya = {key : {participant : '0@s.whatsapp.net', ...(msg.chat ? { remoteJid: `status@broadcast` } : {}) },message: {locationMessage: {name: `XYZBotzz...🌷`, jpegThumbnail: fs.readFileSync('./lib/logo.jpg')}}}
 
 switch (command) {
 case 'lexx':
@@ -229,7 +229,7 @@ case 'sc':
 case 'script':{
 msg.reply(`Mau Buy Scnya? 
 Chat WhatsApp 
-Wa.me/6285156057586
+Wa.me/62894369161594
 Harga 65k negoin`)
 }
 break
@@ -376,7 +376,7 @@ break
 // DISARANKAN BOT MAKE WA GEBE BIAR GAK LAG/CRASH
 
 // BUY NO ENC 100%? CHAT WA SAJA
-// WA : 085156057586
+// WA : 0895369161594
 // HARGA? ORI 120k PROMO AWAL BULAN JADI 80k NEGO TIPIS.
 
 // BOT ATTACK //
